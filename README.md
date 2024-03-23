@@ -1,6 +1,6 @@
-# 📝 Tribute Page
-A tribute page to Steve Jobs
-
+# 📄 Technical Documentation Page
+ A technical documentation page about the operating system Linux.
+ 
 ## Link to page
 Site URL: https://gians1821.github.io/technical-documentation-page/
 
